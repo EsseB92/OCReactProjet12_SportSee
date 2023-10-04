@@ -1,0 +1,6 @@
+[submodule "OCReactProjet12_SportSee-frontend"]
+	path = OCReactProjet12_SportSee-frontend
+	url = https://github.com/EsseB92/OCReactProjet12_SportSee-frontend
+[submodule "OCReactProjet12_SportSee-backend"]
+	path = OCReactProjet12_SportSee-backend
+	url = https://github.com/EsseB92/OCReactProjet12_SportSee-backend
